@@ -1,0 +1,8 @@
+**/node_modules/
+**/dist/
+
+client/src/environments/
+server/.env
+
+client/.angular/
+client/.vscode/
